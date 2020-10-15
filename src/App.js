@@ -24,8 +24,8 @@ class App extends React.Component {
         {title: 'Contact', path: '/contact'}
       ],
       home: {
-        title: 'Be a Leader',
-        subTitle: 'Make a difference',
+        title: 'Leo Hoedl',
+        subTitle: 'Work that makes a difference',
         text: 'Check out my projects below' 
       },
       about: {
@@ -43,7 +43,7 @@ class App extends React.Component {
         <Container className="p-0" fluid={true}>
 
           <Navbar className="border-bottom" bg="transparent" variant="light" expand="lg">
-            <Navbar.Brand><b>Leo Hoedl</b></Navbar.Brand>
+            <Navbar.Brand><b></b></Navbar.Brand>
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle"/>
             <Navbar.Collapse id="navbar-toggle">
               <Nav className="ml-auto">
