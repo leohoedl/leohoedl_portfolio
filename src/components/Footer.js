@@ -10,7 +10,7 @@ function Footer() {
                 <Containter fluid="true">
                     <Row className="border-top justify-content-between p-3"> 
                         <Col className="p-2" md={3} small={12}>
-                            Leo Hoedl © 2020
+                            Copyright © 2020 Leo Hoedl
                         </Col>
                         <Col className="p-2 d-flex justify-content-end" md={3}>
                             This site was made by Leo Hoedl
